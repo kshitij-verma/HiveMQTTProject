@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfF+nc5oPWA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\studentinit\\source\\repos\\HiveMQTest\\HiveMQTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\studentinit\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}

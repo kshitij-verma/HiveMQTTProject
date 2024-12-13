@@ -1,0 +1,5 @@
+C:\Users\studentinit\source\repos\HiveMQTest\obj\Debug\net8.0\HiveMQTT.csproj.AssemblyReference.cache
+C:\Users\studentinit\source\repos\HiveMQTest\obj\Debug\net8.0\HiveMQTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentinit\source\repos\HiveMQTest\obj\Debug\net8.0\HiveMQTT.AssemblyInfoInputs.cache
+C:\Users\studentinit\source\repos\HiveMQTest\obj\Debug\net8.0\HiveMQTT.AssemblyInfo.cs
+C:\Users\studentinit\source\repos\HiveMQTest\obj\Debug\net8.0\HiveMQTT.csproj.CoreCompileInputs.cache
